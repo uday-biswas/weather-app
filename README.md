@@ -8,6 +8,7 @@ The Weather App is a web application that allows users to search for weather inf
 1. Clone the repository: `git clone https://github.com/uday-biswas/weather-app.git`
 2. Open the terminal inside the main folder and run these commands to install dependencies:
 ```
+npm install
 cd frontend
 npm install
 cd ../backend
