@@ -25,14 +25,20 @@ PORT_BACKEND=4000
 FRONTEND_URL=http://localhost:3000
 WEATHER_API_KEY = YOUR_WEATHERAPI_KEY
 ```
-4. Start the frontend as well as backend with the following commands : 
+4. Start the frontend as well as backend with a single command : 
 ```
 npm run dev
 ```
-or
+
+## or
+
+   firstly, start the backend with the following commands: 
 ```
 cd backend
-npm run server 
+npm run server
+```
+   and open another terminal and start the frontend with the following commands : 
+```
 cd ../frontend
 npm start
 ```
