@@ -39,7 +39,7 @@ npm run server
 ```
    and open another terminal and start the frontend with the following commands : 
 ```
-cd ../frontend
+cd frontend
 npm start
 ```
 5. Open your browser and navigate to `http://localhost:3000`
